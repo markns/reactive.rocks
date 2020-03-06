@@ -22,6 +22,7 @@ Here's a diagram...
 
 It's of course mandatory to give our project a serious and corporate sounding name to impress the C-level execs. After a few minutes on thesaurus.com, I've decided to go with IntelliFly for these blog posts.  
 
+The key insight was to implement as a robotic control loop
 
 
 intellifly-operator
